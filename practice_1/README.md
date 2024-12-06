@@ -1,4 +1,3 @@
-# Info
 - Nhóm 1
 - MSHV: 2480101022
 - Họ tên: Phan Hữu Phước
